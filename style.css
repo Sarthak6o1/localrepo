@@ -1,0 +1,9 @@
+p{
+
+    color:red;
+    text-align:center;
+    background-color:violet;
+    padding:10px;
+    width:100%;
+    display:flex;
+}
